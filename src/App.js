@@ -19,11 +19,6 @@ function App() {
             <Route path="/products" component={Products} />
             <Route path="/feedback" component={Feedback} />
             <Route path="/not-found" component={NotFound} />
-            <Route
-              path="https://nukeduke19.github.io/fake_shop"
-              exact
-              to="/products"
-            />
             <Redirect from="/" exact to="/products" />
             <Redirect to="/not-found" />
           </Switch>
