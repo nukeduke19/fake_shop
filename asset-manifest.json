@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fake_shop/static/css/main.a821a6be.chunk.css",
+    "main.js": "/fake_shop/static/js/main.f7c10e78.chunk.js",
+    "main.js.map": "/fake_shop/static/js/main.f7c10e78.chunk.js.map",
+    "runtime-main.js": "/fake_shop/static/js/runtime-main.16fd7580.js",
+    "runtime-main.js.map": "/fake_shop/static/js/runtime-main.16fd7580.js.map",
+    "static/js/2.c292d74b.chunk.js": "/fake_shop/static/js/2.c292d74b.chunk.js",
+    "static/js/2.c292d74b.chunk.js.map": "/fake_shop/static/js/2.c292d74b.chunk.js.map",
+    "static/js/3.55bce4fb.chunk.js": "/fake_shop/static/js/3.55bce4fb.chunk.js",
+    "static/js/3.55bce4fb.chunk.js.map": "/fake_shop/static/js/3.55bce4fb.chunk.js.map",
+    "index.html": "/fake_shop/index.html",
+    "static/css/main.a821a6be.chunk.css.map": "/fake_shop/static/css/main.a821a6be.chunk.css.map",
+    "static/js/2.c292d74b.chunk.js.LICENSE.txt": "/fake_shop/static/js/2.c292d74b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16fd7580.js",
+    "static/js/2.c292d74b.chunk.js",
+    "static/css/main.a821a6be.chunk.css",
+    "static/js/main.f7c10e78.chunk.js"
+  ]
+}
