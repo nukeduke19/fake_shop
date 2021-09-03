@@ -1,0 +1,10 @@
+.body {
+  padding: 3rem 6rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.link {
+  text-decoration: none;
+  display: grid;
+}

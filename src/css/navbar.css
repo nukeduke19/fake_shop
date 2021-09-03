@@ -1,0 +1,31 @@
+/* navbar*/
+.navbar {
+  background-color: indigo;
+  color: white;
+  padding: 1rem 6rem;
+  display: flex;
+  justify-content: space-between;
+}
+.navbar .navbar__heading {
+  font-weight: bold;
+  margin: 0;
+}
+.navbar .navbar__cartContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 15rem;
+}
+
+.navbar .navbar__link,
+.navbar .navbar__cart {
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0;
+  font-size: 1.6rem;
+  color: white;
+  transition: color 0.2s;
+}
+.navbar .navbar__link:hover {
+  color: grey;
+}
