@@ -9,7 +9,7 @@ import CartContext from "./CartContext";
 
 function App() {
   const [cartCount, setCartCount] = useState(0);
-  console.log("aannd");
+
   return (
     <CartContext.Provider value={{ cartCount, setCartCount }}>
       <React.Fragment>
