@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+<p align="center">
+    <a href="https://fake-shop-by-nukeduke.herokuapp.com">
+        <img src="src\css\shop.png" width="250" height="200" />
+    </a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">
+   An ecommerce website built using react,react-redux and "https://fakestoreapi.com/products" api
+</h2>
 
-## Available Scripts
+<hr>
 
-In the project directory, you can run:
+## Running the Application
 
-### `yarn start`
+### View the application
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Live here 👇
 
-### `yarn test`
+[![Live](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://fake-shop-by-nukeduke.herokuapp.com "View Live")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### App Showcase
 
-### `yarn build`
+<hr>
+<p align="center" >
+  <img src="src\css\1.png" />
+  <img src="src\css\2.png" />
+  <img src="src\css\3.png" />
+  <img src="src\css\4.png" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</p>
+<hr>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Running the application on your machine
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run the application on your machine, follow the steps below:
 
-### `yarn eject`
+### Setting up the Application
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+1. Download/ Clone the repository on your machine.
+2. Open the `project` folder `cd fake_shop` .
+3. Open the terminal at the root of the `src` folder (<kbd>Ctrl</kbd> + <kbd>shift</kbd> + <kbd>'</kbd>) and run `npm install` to install the project dependencies.
+4. Still in the terminal, run the command `npm start` to start the app .
+5. The application should open in your default browser at `http://localhost:3000`.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  <p align="center">
+      <a href="https://fake-shop-by-nukeduke.herokuapp.com">
+          <img src="src\css\shop.png" width="100" height="80" />
+      </a>
+  </p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Author
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**ANAND LAMANI**
+<br>
+<br>
 
-## Learn More
+## 🔗 Links
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandlamanird19@gmail.com?subject=Hi "Hi!")
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-lamani "Welcome")
+<br>
+<br>
 
-### Code Splitting
+## 🤝 Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Contributions, issues, and feature requests are welcome!
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if you like this project!
