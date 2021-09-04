@@ -14,13 +14,20 @@ function Feedback(props) {
     message: Yup.string().label("Message"),
   });
 
+  const handleSubmit = (values, { resetForm }) => {
+    console.log("values", values);
+
+    alert("Thanks for your feedback");
+    resetForm();
+  };
+
   return (
     <div className="feedback">
       <div className="feedback__container">
         <p className="feedback__heading">Feedback</p>
         <Form
           initialValues={{ name: "", email: "", subject: "", message: "" }}
-          onSubmit={(values) => console.log(values)}
+          onSubmit={handleSubmit}
           validationSchema={validationSchema}
         >
           <FormField name="name" type="input" placeholder="Name" />
